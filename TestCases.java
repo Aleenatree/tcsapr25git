@@ -9,6 +9,10 @@ class TestCases{
 }
  @Test
  public void testMethod3(){
+	assertTrue(false);//conflict resolved
+}
+ public void testMethod4(){
+
 	assertTrue(false);
 }
 
