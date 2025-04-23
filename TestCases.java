@@ -7,5 +7,9 @@ class TestCases{
  public void testMethod2(){
 	assertTrue(false);
 }
+ @Test
+ public void testMethod3(){
+	assertTrue(false);
+}
 
 }
